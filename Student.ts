@@ -3,7 +3,7 @@ export default class Students{
     }
      
     GetFullName():string{
-        return this.lName+ " "+ this.fName;
+        return this.lName+ " "+ this.fName ;
     }  
   
   }
