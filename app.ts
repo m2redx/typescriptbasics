@@ -7,7 +7,7 @@ enum LanguagesKnown{ English , Germany , Italian}
 
 let students:IStudentInfo = {
     
-    Name:"murat",   
+    Name:"murat",
     Age:30,
     Phone: 5312171998,
     Language :LanguagesKnown [LanguagesKnown.English],
